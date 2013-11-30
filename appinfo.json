@@ -1,0 +1,28 @@
+{
+  "uuid": "43a4b4d6-9404-4f39-868c-594801a7b6b0",
+  "shortName": "Twebble",
+  "longName": "Twebble",
+  "companyName": "izqui.me",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "resource": 0,
+    "id": 1,
+    "text": 2,
+    "screen_name": 3,
+    "name": 4, 
+    "followers": 5,
+    "following": 6, 
+    "start":7, 
+    "end":8,
+    "key":9,
+    "secret":10
+  },
+  "resources": {
+    "media": []
+  },
+  "capabilities":["configurable"]
+}

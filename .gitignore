@@ -1,0 +1,4 @@
+
+# Ignore build generated files
+build
+src/twitter_keys.h
